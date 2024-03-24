@@ -1,0 +1,36 @@
+.profile1-top{
+    background-color: rgb(202, 202, 202);
+    height: 200px;
+    font-size: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 550;
+}
+.profile2-top{
+    background-color: rgb(12, 168, 12);
+    height: 200px;
+    font-size: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 550;
+}
+.profile3-top{
+    background-color: rgb(255, 208, 0);
+    height: 200px;
+    font-size: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 550;
+}
+.profile4-top{
+    background-color: rgb(111, 0, 255);
+    height: 200px;
+    font-size: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 550;
+}
